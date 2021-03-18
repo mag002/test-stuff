@@ -1,0 +1,49 @@
+{
+    "language": {
+        "en": {
+          "TOAST_REMOVE_COMMENT_SS":"Payment successed",
+          "TOAST_SCREENSHOT_SS":"Screenshot Success!",
+          "TOAST_UDPATE_CONTACT_SS":"Submit contact success"    
+        },
+        "srp": {
+           "TOAST_REMOVE_COMMENT_SS":"Payment successed",
+          "TOAST_SCREENSHOT_SS":"Screenshot Success!",
+          "TOAST_UDPATE_CONTACT_SS":"Submit contact success"  
+        },
+        "pl": {
+           "TOAST_REMOVE_COMMENT_SS":"Payment successed",
+          "TOAST_SCREENSHOT_SS":"Screenshot Success!",
+          "TOAST_UDPATE_CONTACT_SS":"Submit contact success"  
+        },
+        "zh": {
+           "TOAST_REMOVE_COMMENT_SS":"Payment successed",
+          "TOAST_SCREENSHOT_SS":"Screenshot Success!",
+          "TOAST_UDPATE_CONTACT_SS":"Submit contact success"  
+        },
+        "de": {
+           "TOAST_REMOVE_COMMENT_SS":"Payment successed",
+          "TOAST_SCREENSHOT_SS":"Screenshot Success!",
+          "TOAST_UDPATE_CONTACT_SS":"Submit contact success"  
+        },
+        "es": {
+           "TOAST_REMOVE_COMMENT_SS":"Payment successed",
+          "TOAST_SCREENSHOT_SS":"Screenshot Success!",
+          "TOAST_UDPATE_CONTACT_SS":"Submit contact success"  
+        },
+        "fr": {
+          "TOAST_REMOVE_COMMENT_SS":"Paiement avec succès.",
+          "TOAST_SCREENSHOT_SS":"\"Capture d\\'écran effectuée !\"",
+          "TOAST_UDPATE_CONTACT_SS":"Votre demande a bien été envoyée"    
+        },
+        "it": {
+           "TOAST_REMOVE_COMMENT_SS":"Payment successed",
+          "TOAST_SCREENSHOT_SS":"Screenshot Success!",
+          "TOAST_UDPATE_CONTACT_SS":"Submit contact success"  
+        },
+        "ru": {
+           "TOAST_REMOVE_COMMENT_SS":"Payment successed",
+          "TOAST_SCREENSHOT_SS":"Screenshot Success!",
+          "TOAST_UDPATE_CONTACT_SS":"Submit contact success"  
+        }
+      }
+    }
